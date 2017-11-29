@@ -8,18 +8,14 @@ Reads in a file, then able to locate words within the file using a bst tree.
 
 # Valid commands
 1. load <filename>
-
-loads a file and constructs a binary search tree on the words in the file
+  loads a file and constructs a binary search tree on the words in the file
 
 
 2. locate <word> <n>
-
-outputs the number of occurences of the specified word from the beginning of the file to the nth occurence of the word
+  outputs the number of occurences of the specified word from the beginning of the file to the nth occurence of the word
 
 3. new
-
-resets the tree to be empty
+  resets the tree to be empty
 
 4. end
-
-terminates the program
+  terminates the program
